@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281456050601",
+    "project_id": "fotopaylasbtk",
+    "storage_bucket": "fotopaylasbtk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281456050601:android:44ffed39d642f2755444b8",
+        "android_client_info": {
+          "package_name": "com.example.btkfotopaylasim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281456050601-n0q4i7m5b7mukrqsns3i7c1don6j5kn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2rAvkOjzDh3NcaQOIs4p55e8J9Dqupdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281456050601-n0q4i7m5b7mukrqsns3i7c1don6j5kn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
